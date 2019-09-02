@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="consultancy" width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <circle id="consultancy__back" cx="40" cy="36" r="25" fill="#E5F1FF" fill-rule="evenodd"/>
+  <path id="consultancy__socket1" stroke="#0076FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="9 9" d="M 36 66 C 37.333 66.667 38.667 67 40 67 C 41.333 67 42.667 66.667 44 66" fill="none" fill-rule="evenodd"/>
+  <path id="consultancy__socket2" stroke="#0076FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="11 11" d="M 35 62 C 36.667 62.667 38.333 63 40 63 C 41.667 63 43.333 62.667 45 62" fill="none" fill-rule="evenodd"/>
+  <path id="consultancy__socket3" stroke="#0076FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="11 11" d="M 35 58 C 36.667 58.667 38.333 59 40 59 C 41.667 59 43.333 58.667 45 58" fill="none" fill-rule="evenodd"/>
+  <path id="consultancy__bulb" fill="#FFFFFF" stroke="#0076FF" stroke-width="2" d="M 40 55 C 43.716 55 47 55 47 52 C 47 45.598 55 45 55 36 C 55 27.716 48.284 21 40 21 C 31.716 21 25 27.716 25 36 C 25 45 33 45.644 33 52 C 33 55 36.248 55 40 55 Z" fill-rule="evenodd"/>
+  <path id="consultancy__wire" stroke="#4D9FFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke-dasharray="47 47" d="M 38 53 C 37.333 48.333 36.667 45 36 43 C 35.333 41 34.667 39.667 34 39 L 37 41 L 38 39 L 40 41 L 42 39 L 43 41 L 46 39 C 45.333 39.667 44.667 41 44 43 C 43.333 45 42.667 48.333 42 53" fill="none" fill-rule="evenodd"/>
+  <g id="consultancy__rays" stroke="#4D9FFF" stroke-linecap="round" stroke-width="2" transform="matrix(1, 0, 0, 1, 11, 8)" fill="none" fill-rule="evenodd">
+    <path id="consultancy__ray1" d="M29,6 L29,8.8817842e-16"/>
+    <path id="consultancy__ray2" d="M45.6776695,12.9791847 L49.9203102,8.73654403"/>
+    <path id="consultancy__ray3" d="M52,28 L58,28"/>
+    <path id="consultancy__ray4" d="M44.6776695,45.6776695 L48.9203102,49.9203102"/>
+    <path id="consultancy__ray5" d="M12.9791847,45.6776695 L8.73654403,49.9203102"/>
+    <path id="consultancy__ray6" d="M6,28 L8.8817842e-16,28"/>
+    <path id="consultancy__ray7" d="M11.9791847,12.9791847 L7.73654403,8.73654403"/>
+  </g>
+</svg>

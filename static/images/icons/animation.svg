@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="animation" width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="animation__mask">
+      <rect x="0" y="0" width="80" height="80" fill="#FFF"/>
+      <circle id="animation__maskcircle" cx="40" cy="40" r="26" fill="#000" fill-rule="evenodd"/>
+    </mask>
+  </defs>
+  <circle id="animation__circleback" cx="40" cy="40" r="23" fill="#E5F1FF" fill-rule="evenodd"/>
+  <g mask="url(#animation__mask)">
+    <circle id="animation__circleborder" cx="40" cy="40" r="23" stroke="#0076FF" stroke-dasharray="145 145" stroke-width="2" fill="none" fill-rule="evenodd"/>
+  <path id="animation__circlefill" stroke="#0076FF" stroke-dasharray="76 76" stroke-dashoffset="-76" stroke-width="24" d="M 40 28 C 46.627 28 52 33.373 52 40 C 52 46.627 46.627 52 40 52 C 33.373 52 28 46.627 28 40 C 28 33.373 33.373 28 40 28 Z" fill="none" fill-rule="evenodd"/>
+  </g>
+  <g id="animation__dots">
+    <circle id="animation__dot1" cx="67.113" cy="16.201" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot2" cx="76" cy="40" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot3" cx="67.113" cy="67.113" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot4" cx="40" cy="76" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot5" cx="16.201" cy="67.113" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot6" cx="4" cy="40" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot7" cx="16.201" cy="16.201" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+    <circle id="animation__dot8" cx="40" cy="4" r="4" fill="#4D9FFF" fill-rule="evenodd"/>
+  </g>
+</svg>

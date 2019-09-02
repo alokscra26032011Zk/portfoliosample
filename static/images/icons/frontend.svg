@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="frontend" width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="frontend__mask">
+      <rect width="34" height="52" x="40" y="14" fill="#FFF" fill-rule="evenodd"/>
+    </mask>
+  </defs>
+  <path id="frontend__frame" fill="#0076FF" d="M 7 12 L 73 12 C 74.657 12 76 13.343 76 15 L 76 65 C 76 66.657 74.657 68 73 68 L 7 68 C 5.343 68 4 66.657 4 65 L 4 15 C 4 13.343 5.343 12 7 12 Z M 40 14 L 40 66 L 73 66 C 73.552 66 74 65.552 74 65 L 74 15 C 74 14.448 73.552 14 73 14 L 40 14 Z" fill-rule="evenodd"/>
+  <rect id="frontend__preview" width="34" height="52" x="40" y="14" fill="none" fill-rule="evenodd"/>
+  <g id="frontend__shapes" mask="url(#frontend__mask)">
+    <rect id="frontend__shape1" width="26" height="20" x="44" y="6" fill="#E5F1FF" rx="2" fill-rule="evenodd"/>
+    <rect id="frontend__shape2" width="26" height="20" x="44" y="30" fill="#B3D6FF" rx="2" fill-rule="evenodd"/>
+    <rect id="frontend__shape3" width="26" height="20" x="44" y="54" fill="#E5F1FF" rx="2" fill-rule="evenodd"/>
+    <rect id="frontend__shape4" width="26" height="20" x="44" y="78" fill="#E5F1FF" rx="2" fill-rule="evenodd"/>
+  </g>
+  <polyline id="frontend__caret" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" points="10 21 12 23 10 25" fill="none" fill-rule="evenodd"/>
+  <g id="frontend__code">
+    <path id="frontend__code1" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5" d="M 18 23 L 23 23" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code2" stroke="#B3D6FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="7 7" d="M 27 23 L 34 23" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code3" stroke="#4D9FFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="3 3" d="M 10 31 L 13 31" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code4" stroke="#B3D6FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="8 8" d="M 17 31 L 25 31" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code5" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="5 5" d="M 29 31 L 34 31" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code6" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="4 4" d="M 10 39 L 14 39" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code7" stroke="#B3D6FF" stroke-linecap="round" stroke-width="2" stroke-dasharray="8 8" d="M 18 39 L 26 39" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code8" stroke="#4D9FFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="4 4" d="M 30 39 L 34 39" fill="none" fill-rule="evenodd"/>
+    <path id="frontend__code9" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" stroke-dasharray="12 12" d="M 10 47 L 22 47" fill="none" fill-rule="evenodd"/>
+  </g>
+</svg>

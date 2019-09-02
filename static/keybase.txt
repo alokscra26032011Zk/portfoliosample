@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/simonwuyts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://simonwuyts.com
+  * I am simonwuyts (https://keybase.io/simonwuyts) on keybase.
+  * I have a public key ASDDLhO86hPaDDyZp2MZ5oQEv8a4eAdKOqr0uVwZLgNRDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c32e13bcea13da0c3c99a76319e68404bfc6b878074a3aaaf4b95c192e03510d0a",
+      "host": "keybase.io",
+      "kid": "0120c32e13bcea13da0c3c99a76319e68404bfc6b878074a3aaaf4b95c192e03510d0a",
+      "uid": "46a899f56d18ad9b903fa081c6ee7119",
+      "username": "simonwuyts"
+    },
+    "merkle_root": {
+      "ctime": 1522219861,
+      "hash": "d0c6bec660abcaf7f5eac0624658a4602d1dbdb896bcc9553d7918d6bfa37589180c70012335b6a0c46125dfb16cbd262432e63301c3c9627b5ced2fdeca738b",
+      "hash_meta": "9a8892bc28cc13f07d276950f39663ef841277f4a9a3b9d5d72a693340e32afb",
+      "seqno": 2299208
+    },
+    "service": {
+      "hostname": "simonwuyts.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1522219885,
+  "expire_in": 504576000,
+  "prev": "63a63cdafec58945c09d4709d43845ed2260dc05ff057481077beca69480400c",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwy4TvOoT2gw8madjGeaEBL/GuHgHSjqq9LlcGS4DUQ0Kp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzMyZTEzYmNlYTEzZGEwYzNjOTlhNzYzMTllNjg0MDRiZmM2Yjg3ODA3NGEzYWFhZjRiOTVjMTkyZTAzNTEwZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzMyZTEzYmNlYTEzZGEwYzNjOTlhNzYzMTllNjg0MDRiZmM2Yjg3ODA3NGEzYWFhZjRiOTVjMTkyZTAzNTEwZDBhIiwidWlkIjoiNDZhODk5ZjU2ZDE4YWQ5YjkwM2ZhMDgxYzZlZTcxMTkiLCJ1c2VybmFtZSI6InNpbW9ud3V5dHMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjIyMTk4NjEsImhhc2giOiJkMGM2YmVjNjYwYWJjYWY3ZjVlYWMwNjI0NjU4YTQ2MDJkMWRiZGI4OTZiY2M5NTUzZDc5MThkNmJmYTM3NTg5MTgwYzcwMDEyMzM1YjZhMGM0NjEyNWRmYjE2Y2JkMjYyNDMyZTYzMzAxYzNjOTYyN2I1Y2VkMmZkZWNhNzM4YiIsImhhc2hfbWV0YSI6IjlhODg5MmJjMjhjYzEzZjA3ZDI3Njk1MGYzOTY2M2VmODQxMjc3ZjRhOWEzYjlkNWQ3MmE2OTMzNDBlMzJhZmIiLCJzZXFubyI6MjI5OTIwOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJzaW1vbnd1eXRzLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIyMjE5ODg1LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjYzYTYzY2RhZmVjNTg5NDVjMDlkNDcwOWQ0Mzg0NWVkMjI2MGRjMDVmZjA1NzQ4MTA3N2JlY2E2OTQ4MDQwMGMiLCJzZXFubyI6NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBt4jXeutfLidJ+3110GJu8dsiDNdBWncqwLWrHLYhuEC6DnpizlfvXbSdy/QJz+vHePMI6aZJWm7U/tjdVvyUIqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg3+FBmR2OskhWRmE7rtVLSYEpkaHOwfD52Ji0zUpBZKmjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonwuyts
+
+==================================================================
